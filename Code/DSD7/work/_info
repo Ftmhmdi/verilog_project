@@ -1,0 +1,94 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 T;4_RBLR4GO9NKKH238YO1
+Z3 IbFU>UPS]:[XZhXn:HgZO12
+Z4 V4g=4;5hCzm6dfKSgaHoTZ0
+Z5 !s105 ALU_sv_unit
+S1
+Z6 dC:\Users\AsusIran\Desktop\dsd
+Z7 w1719573719
+Z8 8C:\Users\AsusIran\Desktop\dsd\ALU.sv
+Z9 FC:\Users\AsusIran\Desktop\dsd\ALU.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:\Users\AsusIran\Desktop\dsd\ALU.sv|
+Z12 o-work work -sv -O0
+!i10b 1
+!s85 0
+Z13 !s108 1719583346.190000
+Z14 !s107 C:\Users\AsusIran\Desktop\dsd\ALU.sv|
+!s101 -O0
+vprocessor
+R1
+Z15 IzL:C1]2V;hPYV9@VP]6z`0
+Z16 VCPHWLh2?WhI_R48JA7<KC1
+Z17 !s105 mid7_sv_unit
+S1
+R6
+Z18 w1719583334
+Z19 8C:\Users\AsusIran\Desktop\dsd\mid7.sv
+Z20 FC:\Users\AsusIran\Desktop\dsd\mid7.sv
+L0 1
+R10
+r1
+31
+Z21 !s90 -reportprogress|300|-work|work|-sv|C:\Users\AsusIran\Desktop\dsd\mid7.sv|
+R12
+Z22 !s100 SG]]4L75mdkOkbFX6ONKH1
+Z23 !s108 1719583346.143000
+Z24 !s107 C:\Users\AsusIran\Desktop\dsd\mid7.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregisterFile
+R1
+Z25 !s100 n_m@T9bX^l7hhehmBmH_82
+Z26 IPB6mD5e7>LJejhGbm6W4f1
+Z27 VU<eJ;56@CkNIb_cjILf;e0
+Z28 !s105 registerFile_sv_unit
+S1
+R6
+Z29 w1719417430
+Z30 8C:\Users\AsusIran\Desktop\dsd\registerFile.sv
+Z31 FC:\Users\AsusIran\Desktop\dsd\registerFile.sv
+L0 1
+R10
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|-sv|C:\Users\AsusIran\Desktop\dsd\registerFile.sv|
+R12
+Z33 nregister@file
+Z34 !s108 1719418336.129000
+Z35 !s107 C:\Users\AsusIran\Desktop\dsd\registerFile.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+R1
+!i10b 1
+!s100 IPWbF6M2^mDESiSY:XAbM1
+ITT?bJ[CQ5AcPH3_Vag^cz2
+Z36 VV@Xn<HnSRM[I5c1?BH]3a3
+Z37 !s105 tb_sv_unit
+S1
+R6
+w1719583199
+Z38 8C:\Users\AsusIran\Desktop\dsd\tb.sv
+Z39 FC:\Users\AsusIran\Desktop\dsd\tb.sv
+L0 1
+R10
+r1
+!s85 0
+31
+!s108 1719583346.221000
+!s107 C:\Users\AsusIran\Desktop\dsd\tb.sv|
+Z40 !s90 -reportprogress|300|-work|work|-sv|C:\Users\AsusIran\Desktop\dsd\tb.sv|
+!s101 -O0
+R12
